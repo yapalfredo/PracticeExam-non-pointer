@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PracticeExam-non-pointer", "PracticeExam-non-pointer\PracticeExam-non-pointer.vcxproj", "{3E4FD76B-FC9B-431C-AF1F-711B59F7572B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E4FD76B-FC9B-431C-AF1F-711B59F7572B}.Debug|x64.ActiveCfg = Debug|x64
+		{3E4FD76B-FC9B-431C-AF1F-711B59F7572B}.Debug|x64.Build.0 = Debug|x64
+		{3E4FD76B-FC9B-431C-AF1F-711B59F7572B}.Debug|x86.ActiveCfg = Debug|Win32
+		{3E4FD76B-FC9B-431C-AF1F-711B59F7572B}.Debug|x86.Build.0 = Debug|Win32
+		{3E4FD76B-FC9B-431C-AF1F-711B59F7572B}.Release|x64.ActiveCfg = Release|x64
+		{3E4FD76B-FC9B-431C-AF1F-711B59F7572B}.Release|x64.Build.0 = Release|x64
+		{3E4FD76B-FC9B-431C-AF1F-711B59F7572B}.Release|x86.ActiveCfg = Release|Win32
+		{3E4FD76B-FC9B-431C-AF1F-711B59F7572B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B41C2859-3BBC-4667-848B-2E564F77F0D3}
+	EndGlobalSection
+EndGlobal
